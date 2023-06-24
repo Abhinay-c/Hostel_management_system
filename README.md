@@ -21,7 +21,7 @@
 <table>
     <tr>
         <th>
-            <img src="/contributor/Abhinay Challa.jpg" alt="">
+            <img src="/contributor/Abhinay Challa.jpg" alt="AC">
             <a href="https://github.com/Abhinay-c">Abhinay Challa</a>
         </th>
         <th>

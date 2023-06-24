@@ -18,15 +18,18 @@
  Each entity consists of several attributes.
 
 # Entity Relationship diagram
-![ERD](erd.png)
+<img src="https://github.com/Abhinay-c/Hostel_management_system/assets/95285514/bbd35d84-6a5c-402d-b5b4-199391b4d913" alt="erd">
 
 # Relationship Schema
-![Relationship Schema](relationship%20schema.png)
+<img src="https://github.com/Abhinay-c/Hostel_management_system/assets/95285514/ac2c2f58-1efe-4470-9a50-6d52972c8682" alt="erd">
+
 
 # Contributors
 <table>
     <tr>
         <th>
+            <img src="https://github.com/Abhinay-c/Hostel_management_system/assets/95285514/8353f1d8-717b-4562-917a-ca9e511ac568" alt="AC" width = 150px>
+            <br>
             <a href="https://github.com/Abhinay-c">Abhinay Challa</a>
         </th>
         <th>

@@ -20,6 +20,9 @@
 # Entity Relationship diagram
 <img src="erd.png" alt="ER diagram" >
 
+# Relationship Schema
+<img src="relationship schema.png" alt="Relationship schema" >
+
 # Contributors
 <table>
     <tr>

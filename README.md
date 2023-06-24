@@ -16,3 +16,10 @@
  - Complaints
 
  Each entity consists of several attributes.
+
+# Contributors
+<table>
+    <tr>
+        <th>Name</th>
+    </tr>
+</table>

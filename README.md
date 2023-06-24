@@ -30,11 +30,13 @@
 <table>
     <tr>
         <th>
-            <img src="https://github.com/Abhinay-c/Hostel_management_system/assets/95285514/8353f1d8-717b-4562-917a-ca9e511ac568" alt="AC" width = 150px>
+            <img src="https://github.com/Abhinay-c/Hostel_management_system/assets/95285514/8353f1d8-717b-4562-917a-ca9e511ac568" alt="AC" width = 130px>
             <br>
             <a href="https://github.com/Abhinay-c">Abhinay Challa</a>
         </th>
         <th>
+            <img src="https://github.com/Abhinay-c/Hostel_management_system/assets/95285514/a90450f9-8765-481d-b45d-2650739b4d15" alt="NB" width = 150px>
+            <br>
             <a href="https://github.com/Nikhil-0088">Nikhil B</a>
         </th>
         <th>

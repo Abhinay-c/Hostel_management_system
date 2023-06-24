@@ -21,7 +21,7 @@
 ![ER diagram](erd.png)
 
 # Relationship Schema
-<img src="relationship schema.png" alt="Relationship schema" >
+![Relationship Schema](relationship%20schema.png)
 
 # Contributors
 <table>

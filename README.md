@@ -18,7 +18,7 @@
  Each entity consists of several attributes.
 
 # Entity Relationship diagram
-<img src="erd.png" alt="ER diagram" >
+![ERD](https://github.com/Abhinay-c/Hostel_management_system/blob/main/erd.png)
 
 # Relationship Schema
 <img src="relationship schema.png" alt="Relationship schema" >

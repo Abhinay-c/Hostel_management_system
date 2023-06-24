@@ -17,11 +17,14 @@
 
  Each entity consists of several attributes.
 
+# Entity Relationship diagram
+<img src="erd.png" alt="ER diagram" >
+
 # Contributors
 <table>
     <tr>
         <th>
-            <img src="contributor/Abhinay Challa.jpg" alt="AC">
+            <img src="Abhinay Challa.jpg" alt="AC">
             <a href="https://github.com/Abhinay-c">Abhinay Challa</a>
         </th>
         <th>

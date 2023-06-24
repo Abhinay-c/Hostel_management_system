@@ -5,7 +5,8 @@
 # Project Overview
  The Hostel Database project is designed to provide a centralized system for managing hostel-related data. It aims to simplify tasks such as managing student records, room allocations, maintenance requests, and overall hostel administration. The project utilizes a relational database management system to store and retrieve data efficiently.
 
-# Database Entities
+# Basic Structure
+## Database Entities
  There are 8 entities in this database. They are
  - Students
  - Hostel
@@ -18,10 +19,10 @@
 
  Each entity consists of several attributes.
 
-# Entity Relationship diagram
+## Entity Relationship diagram
 <img src="https://github.com/Abhinay-c/Hostel_management_system/assets/95285514/bbd35d84-6a5c-402d-b5b4-199391b4d913" alt="erd">
 
-# Relationship Schema
+## Relationship Schema
 <img src="https://github.com/Abhinay-c/Hostel_management_system/assets/95285514/ac2c2f58-1efe-4470-9a50-6d52972c8682" alt="erd">
 
 

@@ -18,7 +18,7 @@
  Each entity consists of several attributes.
 
 # Entity Relationship diagram
-<img src="Abhinay Challa.jpg" alt="AC">
+![ER diagram](erd.png)
 
 # Relationship Schema
 <img src="relationship schema.png" alt="Relationship schema" >

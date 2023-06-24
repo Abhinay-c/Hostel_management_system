@@ -40,7 +40,9 @@
             <a href="https://github.com/Nikhil-0088">Nikhil B</a>
         </th>
         <th>
-            <a href="https://github.com/">Vignesh Bejugam</a>
+            <img src="https://github.com/Abhinay-c/Hostel_management_system/assets/95285514/0f6af3b6-4e6f-47b6-b6bb-db1bd6fb3a29" alt="VB" width = 120px>
+            <br>
+            <a href="https://github.com/Vignesh0317">Vignesh Bejugam</a>
         </th>
     </tr>
 </table>

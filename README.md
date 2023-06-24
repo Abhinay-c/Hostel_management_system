@@ -27,7 +27,6 @@
 <table>
     <tr>
         <th>
-            <img src="Abhinay Challa.jpg" alt="AC">
             <a href="https://github.com/Abhinay-c">Abhinay Challa</a>
         </th>
         <th>

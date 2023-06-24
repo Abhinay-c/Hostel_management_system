@@ -18,7 +18,7 @@
  Each entity consists of several attributes.
 
 # Entity Relationship diagram
-![ER diagram](erd.png)
+![ERD](erd.png)
 
 # Relationship Schema
 ![Relationship Schema](relationship%20schema.png)

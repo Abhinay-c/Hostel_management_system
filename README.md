@@ -1,4 +1,4 @@
-# Hostel_management_system
+# Hostel Management System
  Welcome to Hostel Database Management system Project!
  
  If you like the repo do ⭐ it.

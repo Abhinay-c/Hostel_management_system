@@ -20,6 +20,14 @@
 # Contributors
 <table>
     <tr>
-        <th>Name</th>
+        <th>
+            <a href="https://github.com/Abhinay-c">Abhinay Challa</a>
+        </th>
+        <th>
+            <a href="https://github.com/Nikhil-0088">Nikhil B</a>
+        </th>
+        <th>
+            <a href="https://github.com/">Vignesh Bejugam</a>
+        </th>
     </tr>
 </table>

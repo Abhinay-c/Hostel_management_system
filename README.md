@@ -20,7 +20,7 @@
  Each entity consists of several attributes.
 
 ## Entity Relationship diagram
-<img src="https://github.com/Abhinay-c/Hostel_management_system/assets/95285514/6b510608-0300-49d0-97b1-41b8c787ad74" alt="erd">
+<img src="https://github.com/Abhinay-c/Hostel_management_system/assets/95285514/19f386f3-c4c0-4b3b-809f-ffa5c3b72ea0" alt="erd">
 
 ## Relationship Schema
 <img src="https://github.com/Abhinay-c/Hostel_management_system/assets/95285514/8d4bf36b-3e60-421f-bccd-c996a2fe7192" alt="erd">

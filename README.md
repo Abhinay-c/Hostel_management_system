@@ -23,7 +23,7 @@
 <img src="https://github.com/Abhinay-c/Hostel_management_system/assets/95285514/6b510608-0300-49d0-97b1-41b8c787ad74" alt="erd">
 
 ## Relationship Schema
-<img src="https://github.com/Abhinay-c/Hostel_management_system/assets/95285514/ac2c2f58-1efe-4470-9a50-6d52972c8682" alt="erd">
+<img src="https://github.com/Abhinay-c/Hostel_management_system/assets/95285514/8d4bf36b-3e60-421f-bccd-c996a2fe7192" alt="erd">
 
 
 # Contributors
